@@ -1,2 +1,2 @@
-# depth_prompt
-Code for paper Background Prompting for Improved Object Depth
+# Background Prompting for Improved Object Depth
+Code for paper Background Prompting for Improved Object Depth to be released soon!
