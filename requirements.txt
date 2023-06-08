@@ -1,0 +1,13 @@
+numpy
+torch==1.13.0
+pandas
+tqdm
+imageio
+scikit-video
+kornia==0.4.1
+torchvision==0.14.0
+OpenEXR
+Pillow
+Imath
+diffusers==0.11.1
+torch-lucent==0.1.8

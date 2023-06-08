@@ -1,0 +1,9 @@
+*.egg-info
+*.pyc
+
+*.stl
+*.obj
+
+output
+build
+dist
