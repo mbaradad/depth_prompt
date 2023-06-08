@@ -1,0 +1,10 @@
+__pycache__
+/compressed/
+/uncompressed/
+/build
+/conda
+/dist
+/omnidata_tools.egg-info
+*.ckpt
+*.pth
+
