@@ -73,3 +73,16 @@ use the respective downloads for each of the datasets.
 
 To download our pretrained models, you can use the script under:
 `scripts/pretrained_models.sh`
+
+
+# Citation
+```
+@misc{baradad2023background,
+      title={Background Prompting for Improved Object Depth}, 
+      author={Manel Baradad and Yuanzhen Li and Forrester Cole and Michael Rubinstein and Antonio Torralba and William T. Freeman and Varun Jampani},
+      year={2023},
+      eprint={2306.05428},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
