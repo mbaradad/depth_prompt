@@ -8,8 +8,8 @@ Official implementation of Background Prompting for Improved Object Depth. This 
 Background prompting is a simple but yet effective strategy that adapts the input object image with a learned background to improve object depth. We learn the background prompts only using small scale synthetic object datasets. To infer object depth on a real image, we place the segmented object into the learned background prompt and run off-the-shelf depth networks. Background Prompting helps the depth networks focus on the foreground object, as networks are made invariant to background variations. Moreover, Background Prompting minimizes the domain gap between synthetic and real object images, leading to better sim2real generalization than simple finetuning.
 
 [[Project page](https://mbaradad.github.io/depth_prompt)]
-[[arXiv](https://arxiv.org/abs/23)]
-[[Paper](https://arxiv.org/pdf/23)]
+[[arXiv](https://arxiv.org/abs/2306.05428)]
+[[Paper](https://arxiv.org/pdf/2306.05428.pdf)]
 
 ## Requirements
 The code has been tested with Python 3.7.12 and Pytorch 1.13.0.
